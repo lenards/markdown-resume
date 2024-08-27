@@ -14,7 +14,7 @@ author:
 - Hi I am Andrew, I am the author
 subject: 'Senior Software Engineer'
 ---
-###### [[github.com/lenards](https://github.com/lenards)] . [andrew.lenards@gmail.com] . [ 520 647 1847 ]
+###### [Andrew Lenards] . [[github.com/lenards](https://github.com/lenards)] . [andrew.lenards@gmail.com] . [ 520 647 1847 ]
 
 ### Versatile software engineer with practical knowledge & experience delivering solutions, supporting communities, and leading teams. Leveraged skills in business and academic environments. Comfortable leading training & teaching scenarios in both.
 
