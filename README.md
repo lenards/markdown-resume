@@ -33,12 +33,6 @@ A lot has changed since Sonya wrote her blog post and shared her workflow, so he
     brew install pandoc
 ```
 
-## [Wkhtmltopdf](https://wkhtmltopdf.org)
-
-```
-    brew install wkhtmltopdf
-```
-
 ## Markdown to HTML
 
 ```
@@ -49,14 +43,6 @@ pandoc resume.md -f markdown -t html -c resume-stylesheet.css -s -o resume.html
 
 ```
 pandoc resume.md -f markdown -t pdf --pdf-engine=wkhtmltopdf -c resume-stylesheet.css -s -o resume.pdf
-```
-
-## HTML to PDF
-
-If you want to convert from HTML to PDF for some reason, you'll need to add a switch to wkhtmltopdf so that it works properly.
-
-```
-wkhtmltopdf --enable-local-file-access resume.html resume.pdf
 ```
 
 # TODO
