@@ -192,7 +192,7 @@ pre {
  */
 
 q {
-    quotes: "\201C""\201D""\2018""\2019";
+    quotes: "\201C" "\201D" "\2018" "\2019";
 }
 
 /**
@@ -521,14 +521,13 @@ h1 {
 
 h2 {
     font-size: 24px;
-    border-bottom: 1px solid #ccc;
-    color: #f39
+    border-bottom: 1px solid rgb(3, 55, 119);
+    color: rgb(3, 55, 119)
 }
 
 h3 {
     font-size: 18px;
-    color: #333
-    -webkit-margin-before: 0.01em;
+    color: #333 -webkit-margin-before: 0.01em;
     -webkit-margin-after: 0.01em;
 }
 
@@ -574,7 +573,7 @@ ol li ul:first-of-type {
 hr {
     background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAYAAACtBE5DAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OENDRjNBN0E2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OENDRjNBN0I2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4Q0NGM0E3ODY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4Q0NGM0E3OTY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqqezsUAAAAfSURBVHjaYmRABcYwBiM2QSA4y4hNEKYDQxAEAAIMAHNGAzhkPOlYAAAAAElFTkSuQmCC) repeat-x 0 0;
     border: 0 none;
-    color: #ccc;
+    color: rgb(3, 55, 119);
     height: 4px;
     padding: 0
 }
@@ -683,17 +682,17 @@ table {
 
 table th {
     font-weight: bold;
-    border: 1px solid #ccc;
+    border: 1px solid rgb(3, 55, 119);
     padding: 6px 13px
 }
 
 table td {
-    border: 1px solid #ccc;
+    border: 1px solid rgb(3, 55, 119);
     padding: 6px 13px
 }
 
 table tr {
-    border-top: 1px solid #ccc;
+    border-top: 1px solid rgb(3, 55, 119);
     background-color: #fff
 }
 
@@ -728,7 +727,7 @@ pre>code {
 
 .highlight pre {
     background-color: #f8f8f8;
-    border: 1px solid #ccc;
+    border: 1px solid rgb(3, 55, 119);
     font-size: 13px;
     line-height: 19px;
     overflow: auto;
@@ -738,7 +737,7 @@ pre>code {
 
 pre {
     background-color: #f8f8f8;
-    border: 1px solid #ccc;
+    border: 1px solid rgb(3, 55, 119);
     font-size: 13px;
     line-height: 19px;
     overflow: auto;
@@ -808,7 +807,7 @@ sub {
         background-color: #fff;
         color: #333 !important;
         padding: 0 .2em;
-        border: 1px solid #dedede
+        border: 1px solid rgb(3, 55, 119)
     }
 
     pre {
