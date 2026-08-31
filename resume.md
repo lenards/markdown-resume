@@ -42,6 +42,21 @@ subject: 'Senior Software Engineer'
 
 ## Experience  
 
+### Maintainer, Contributor, Exosphere Foundation; Tucson, AZ - 2026-Present
+Contribute and maintain open source software, Exosphere, that provisions cloud resources for OpenStack platforms.
+- Technologies: Elm, JavaScript, Npm, OpenStack
+- Type: Contract Position
+
+### Senior Software Engineer, PINATA; (remote) Tucson, AZ - 2026
+Full Stack engineer building value for customers in the field marketing areas of businesses.
+- Technologies: Elm, JavaScript, Rust, Npm, Webpack, PostgreSQL, AWS
+- Type: Full-time Position
+
+### Software Engineer II, Travelers Insurance; (remote) Tucson, AZ - 2025-2026
+Full Stack engineer solving valuable business problems on 4-week cycles. Solutions decomposes as vertical slices to ensure they're used as soon as possible
+- Technologies: Elixir, Elm, JavaScript, Npm, Webpack, PostgreSQL, AWS
+- Type: Full-time Position
+
 ### Senior Software Engineer, Corvus Insurance; (remote) Tucson, AZ - 2021-Present
 Full Stack engineer solving valuable business problems on 4-week cycles. Solutions decomposes as vertical slices to ensure they're used as soon as possible
 - Technologies: Elixir, Elm, JavaScript, Npm, Webpack, PostgreSQL, AWS
